@@ -1,0 +1,1 @@
+- `.github/FUNDING.yml` now matches the fleet copy in vidiko/vmafx byte for byte, so the Sponsor button lists Patreon next to GitHub Sponsors and Ko-fi.
